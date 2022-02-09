@@ -12,9 +12,15 @@ System.out.println("GIT task");
 		a.add();
 	}
 	
+	public void sub() {
+		
+		System.out.println("Sara Barnch done");
+	}
+
 	public void mult() {
 
 System.out.println("Multiplication done ");
+
 
 	}
 }
