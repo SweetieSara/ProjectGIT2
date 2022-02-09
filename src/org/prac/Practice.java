@@ -11,4 +11,10 @@ System.out.println("GIT task");
 		Practice a = new Practice();
 		a.add();
 	}
+	
+	public void sub() {
+	
+		System.out.println("Sara Barnch done");
+
+	}
 }
