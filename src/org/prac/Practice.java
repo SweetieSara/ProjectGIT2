@@ -11,4 +11,10 @@ System.out.println("GIT task");
 		Practice a = new Practice();
 		a.add();
 	}
+	
+	public void mult() {
+
+System.out.println("Multiplication done ");
+
+	}
 }
